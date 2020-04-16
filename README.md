@@ -6,10 +6,13 @@ In this module, we will learn about Generative Models and deep learning approach
 
 ### The learning components of this module are:
 
-* An introductory lecture from MIT's deep learning bootcamp, covering the fundamentals of generative models and deep learning approaches to generative modeling,
-* 4 video tutorials (w. code) on training GANs in Tensorflow/Keras,
-* A video tutorial on using deep autoencoders for anomaly detection in network traffic,
-* A written tutorial on using LSTM autoencoders to detect anomalies in time-series data.
+Section|Content
+---|---
+Section1| **Deep Generative Models:** An introductory lecture from MIT's deep learning bootcamp, covering the fundamentals of generative models and deep learning approaches to generative modeling
+Section2 | **Overview of Generative Adversarial Networks (GANs) and Deep Fakes:** An introductory video
+Section3 | **GANs in Keras:** Set of 3 video tutorials (w. code) on training GANs in Tensorflow/Keras
+Section4 | **AutoEncoders for Anomaly Detection in Network Data:** A video tutorial on using deep autoencoders for anomaly detection in network traffic
+Section5 | **Tutorial on Time Series Anomaly Detection with LSTM Autoencoders:** A written tutorial on using LSTM autoencoders to detect anomalies in time-series data.
 
 ### The assessed component of this module is:
 
